@@ -1,0 +1,4 @@
+baseURL = "https://shlain.net/"
+languageCode = "en-us"
+title = ""
+theme = "ananke"
